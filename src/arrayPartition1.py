@@ -6,6 +6,6 @@ class Solution(object):
         """
 
         # your solution here
-
+	print "Try Commit"	
         return 4
 
